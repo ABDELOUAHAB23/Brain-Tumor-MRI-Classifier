@@ -15,7 +15,11 @@ A lightweight **Flask backend** provides both:
 - A **REST API** that returns predictions in JSON format
 
 ---
+# Brain Tumor MRI Classifier
 
+This project detects brain tumors from MRI images.
+
+![Brain Tumor MRI Example](images/diagram.png)
 # 🚀 Features
 
 - Upload MRI images directly from a browser

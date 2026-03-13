@@ -1,0 +1,5 @@
+Flask==2.3.2
+flask-cors==4.0.0
+tensorflow==2.13.0         # or the version you trained the model with
+Pillow==10.2.0              # For image handling
+numpy==1.24.3

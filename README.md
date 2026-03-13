@@ -19,7 +19,7 @@ A lightweight **Flask backend** provides both:
 
 This project detects brain tumors from MRI images.
 
-![Brain Tumor MRI Example](images/diagram.png)
+![Brain Tumor MRI Example](diagram.png)
 # 🚀 Features
 
 - Upload MRI images directly from a browser
